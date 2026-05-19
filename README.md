@@ -2,10 +2,6 @@
 
 Mind-body exercises paired with AI-recommended therapeutic music personalized for dementia patients
 
-## Video
-
-[![Presentation Video](https://placehold.co/200x110/png?text=Click+to+Watch)](https://storage.googleapis.com/lablab-video-submissions/clxafvp21001m356ylkui7lgb/raw/submission-video-x-clxafvp21001m356ylkui7lgb-cm3otcrer004l3b6wdu6jnzau_7r4c80woc.mp4)
-
 ## About the Project
 
 Each year, over 55 million people worldwide struggle with cognitive decline, emotional distress, and physical inactivity caused by progressive neurodegeneration. Dementia solutions like memory care, medications, and cognitive therapies offer symptom management but often lack accessibility, affordability, and holistic personalization. These gaps leave many without adequate support for their social, emotional, and physical needs. Our solution combines mind-body exercises like tai chi and yoga with therapeutic music to help people with dementia stay active and improve mood. These low-cost, adaptable routines work for all mobility levels and can be personalized to enhance care. With the potential to serve millions globally, we are seeking partnerships for pilot trials and collaboration with experts to create tailored routines.
