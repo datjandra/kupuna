@@ -4,7 +4,7 @@ Mind-body exercises paired with AI-recommended therapeutic music personalized fo
 
 ## Video
 
-[![Video Presentation](https://img.shields.io/badge/Watch-Demo_Video-blue?style=for-the-badge)](https://storage.googleapis.com/lablab-video-submissions/clxafvp21001m356ylkui7lgb/raw/submission-video-x-clxafvp21001m356ylkui7lgb-cm3otcrer004l3b6wdu6jnzau_7r4c80woc.mp4)
+[![Presentation Video](https://placehold.co/200x110/png?text=Click+to+Watch)](https://storage.googleapis.com/lablab-video-submissions/clxafvp21001m356ylkui7lgb/raw/submission-video-x-clxafvp21001m356ylkui7lgb-cm3otcrer004l3b6wdu6jnzau_7r4c80woc.mp4)
 
 ## About the Project
 
