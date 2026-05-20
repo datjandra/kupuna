@@ -1,6 +1,14 @@
 # Kūpuna Care
 
-Mind-body exercises paired with AI-recommended therapeutic music personalized for dementia patients
+# Kūpuna Care
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datjandra/kupuna/refs/heads/main/images/logo.png" alt="Kūpuna Care Logo" width="220"/>
+</p>
+
+<p align="center">
+  <strong>Mind-body exercises paired with AI-recommended therapeutic music personalized for dementia patients</strong>
+</p>
 
 ## About the Project
 
