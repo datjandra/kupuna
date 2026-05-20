@@ -1,7 +1,5 @@
 # Kūpuna Care
 
-# Kūpuna Care
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/datjandra/kupuna/refs/heads/main/images/logo.png" alt="Kūpuna Care Logo" width="220"/>
 </p>
